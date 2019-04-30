@@ -65,7 +65,7 @@ var groceries = ['apples', 'milk', 'eggs', 'bread']
 
 //Code Here
 var dog = {
-  name: 'Sampson',
+  name: 'Bubba',
   color: 'Yellow',
   age: 7,
   goodBoy: true
